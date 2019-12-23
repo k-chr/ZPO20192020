@@ -1,0 +1,32 @@
+[
+  {
+    "base": "przeciętny",
+    "translations": [
+      "averge"
+    ]
+  },
+  {
+    "base": "bunt",
+    "translations": [
+      "riot"
+    ]
+  },
+  {
+    "base": "unicestwienie",
+    "translations": [
+      "annihilation"
+    ]
+  },
+  {
+    "base": "droga",
+    "translations": [
+      "yaw"
+    ]
+  },
+  {
+    "base": "zysk",
+    "translations": [
+      "profit"
+    ]
+  }
+]

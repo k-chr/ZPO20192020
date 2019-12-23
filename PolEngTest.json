@@ -1,0 +1,96 @@
+[
+  {
+    "base": "wybuch",
+    "translations": [
+      "bang",
+      "blast",
+      "explosion",
+      "burst",
+      "detonation"
+    ]
+  },
+  {
+    "base": "droga",
+    "translations": [
+      "lane",
+      "route",
+      "road",
+      "way",
+      "path"
+    ]
+  },
+  {
+    "base": "magazyn",
+    "translations": [
+      "storage",
+      "storehouse",
+      "warehouse",
+      "depository"
+    ]
+  },
+  {
+    "base": "przeciętny",
+    "translations": [
+      "ordinary",
+      "average",
+      "unremarkable",
+      "common"
+    ]
+  },
+  {
+    "base": "zysk",
+    "translations": [
+      "benefit",
+      "gain",
+      "profit",
+      "return"
+    ]
+  },
+  {
+    "base": "chaos",
+    "translations": [
+      "disorder",
+      "disarray",
+      "mayhem",
+      "havoc",
+      "chaos"
+    ]
+  },
+  {
+    "base": "cel",
+    "translations": [
+      "aim",
+      "objective",
+      "goal",
+      "purpose"
+    ]
+  },
+  {
+    "base": "bunt",
+    "translations": [
+      "rebellion",
+      "revolt",
+      "riot",
+      "mutiny"
+    ]
+  },
+  {
+    "base": "unicestwienie",
+    "translations": [
+      "annihilation",
+      "destruction",
+      "decreation",
+      "dilapidation",
+      "obliteration"
+    ]
+  },
+  {
+    "base": "masakra",
+    "translations": [
+      "bloodbath",
+      "massacre",
+      "butchery",
+      "carnage"
+    ]
+  }
+]

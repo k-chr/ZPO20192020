@@ -1,0 +1,32 @@
+[
+  {
+    "base": "magazyn",
+    "translations": [
+      "storehouse"
+    ]
+  },
+  {
+    "base": "droga",
+    "translations": [
+      "way"
+    ]
+  },
+  {
+    "base": "unicestwienie",
+    "translations": [
+      "annihilation"
+    ]
+  },
+  {
+    "base": "bunt",
+    "translations": [
+      "riot"
+    ]
+  },
+  {
+    "base": "chaos",
+    "translations": [
+      "chaos"
+    ]
+  }
+]

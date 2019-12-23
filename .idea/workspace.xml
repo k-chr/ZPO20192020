@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Employee" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d2ab7c8-0cc9-49c1-b6d7-cfbc3f72c262" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TEjb3Dfef7H6MqCGRvJ6sgvVRt" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ThirdPartyPackages/jsoup-1.12.1.jar!/" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1532091" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Kamil215691.ZPO.LAB8.Zad2" />
+      <recent name="Kamil215691.ZPO.LAB6.Zad3" />
+      <recent name="Kamil215691.ZPO.LAB6.Zad2" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Kamil215691.ZPO.LAB5.Zad1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\ZPO20192020" />
+      <recent name="D:\Projects\ZPO20192020\src\ThirdPartyPackages" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\ZPO20192020\src\ThirdPartyPackages" />
+      <recent name="D:\Projects\ZPO20192020" />
+      <recent name="D:\Projects\ZPO20192020\src\Kamil215691\ZPO\LAB10\Zad2" />
+      <recent name="D:\Projects\ZPO20192020\src\Kamil215691\ZPO\LAB10\Zad1" />
+      <recent name="D:\Projects\ZPO20192020\src\Kamil215691\ZPO" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kamil215691.ZPO.LAB10.Zad3.App" />
+      <module name="ZPO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kamil215691.ZPO.LAB10.Zad3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
+      <module name="ZPO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactorialExtensions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kamil215691.ZPO.LAB10.Zad2.FactorialExtensions" />
+      <module name="ZPO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kamil215691.ZPO.LAB10.Zad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointExtension (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kamil215691.ZPO.LAB10.Zad1.PointExtension" />
+      <module name="ZPO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kamil215691.ZPO.LAB10.Zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointExtension" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PointExtension" />
+      <module name="ZPO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomMergeUtilitiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZPO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kamil215691.ZPO.LAB6.Zad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kamil215691.ZPO.LAB6.Zad2" />
+      <option name="MAIN_CLASS_NAME" value="Kamil215691.ZPO.LAB6.Zad2.CustomMergeUtilitiesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PointExtension" />
+      <item itemvalue="Application.PointExtension (1)" />
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.FactorialExtensions" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.CustomMergeUtilitiesTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.CustomMergeUtilitiesTest" />
+        <item itemvalue="Application.FactorialExtensions" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.PointExtension (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d2ab7c8-0cc9-49c1-b6d7-cfbc3f72c262" name="Default Changelist" comment="" />
+      <created>1573032216171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573032216171</updated>
+      <workItem from="1573032220662" duration="70342000" />
+      <workItem from="1573471748678" duration="17370000" />
+      <workItem from="1573647415547" duration="4338000" />
+      <workItem from="1574018054479" duration="35577000" />
+      <workItem from="1574346080865" duration="4362000" />
+      <workItem from="1574367066542" duration="8447000" />
+      <workItem from="1574720711220" duration="201000" />
+      <workItem from="1574806846357" duration="3253000" />
+      <workItem from="1574983984012" duration="37121000" />
+      <workItem from="1575281238370" duration="646000" />
+      <workItem from="1575293265773" duration="1204000" />
+      <workItem from="1575321523399" duration="827000" />
+      <workItem from="1575584529674" duration="65378000" />
+      <workItem from="1576058003563" duration="6512000" />
+      <workItem from="1576574933853" duration="1004000" />
+      <workItem from="1576775113131" duration="71872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB5/Zad1/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB6/Zad1/StreamOperations.java</url>
+          <line>26</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/Kolokwium/Maze.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/Kolokwium/Maze.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/Kolokwium/Maze.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/Kolokwium/Maze.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/Kolokwium/Maze.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB8/Zad3/MultithreadingRounds.java</url>
+          <line>18</line>
+          <properties>
+            <option name="lambda-ordinal" value="1" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB9/Zad1/TaskCreator.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB9/Zad1/TaskCreator.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB9/Zad1/TaskCreator.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB9/Zad2/SieveOfEratosthenes.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB9/Zad2/SieveOfEratosthenes.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB9/Zad2/SieveOfEratosthenes.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB9/Zad2/SieveOfEratosthenes.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB9/Zad2/SieveOfEratosthenes.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB9/Zad2/SieveOfEratosthenes.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB10/Zad3/Lotto.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB10/Zad3/MultiMulti.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB10/Zad3/MultiMulti.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB10/Zad3/LottoParser.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB7/Zad3/Main.java</url>
+          <line>7</line>
+          <properties class="Kamil215691.ZPO.LAB7.Zad3.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB8/Zad3/MultithreadingRounds.java</url>
+          <line>37</line>
+          <properties class="Kamil215691.ZPO.LAB8.Zad3.MultithreadingRounds" method="getNext">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB8/Zad1/App.java</url>
+          <line>8</line>
+          <properties class="Kamil215691.ZPO.LAB8.Zad1.App" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB10/Zad2/FactorialExtensions.java</url>
+          <line>14</line>
+          <properties class="Kamil215691.ZPO.LAB10.Zad2.FactorialExtensions" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB10/Zad3/LottoParser.java</url>
+          <line>81</line>
+          <properties class="Kamil215691.ZPO.LAB10.Zad3.LottoParser" method="getResultForDocument">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

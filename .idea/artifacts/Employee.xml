@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Employee">
+    <output-path>$PROJECT_DIR$/out/artifacts/Employee</output-path>
+    <root id="archive" name="Employee.jar">
+      <element id="directory" name="ZPO.LAB1.Zad1">
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/ZPO/Kamil215691/ZPO/LAB1/Zad1/Employee.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB1/Zad1/Employee.java" />
+      </element>
+    </root>
+  </artifact>
+</component>

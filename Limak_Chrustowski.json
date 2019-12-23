@@ -1,0 +1,32 @@
+[
+  {
+    "base": "unicestwienie",
+    "translations": [
+      "Annihilatiion"
+    ]
+  },
+  {
+    "base": "bunt",
+    "translations": [
+      "riot"
+    ]
+  },
+  {
+    "base": "droga",
+    "translations": [
+      "path"
+    ]
+  },
+  {
+    "base": "masakra",
+    "translations": [
+      "Massacre"
+    ]
+  },
+  {
+    "base": "wybuch",
+    "translations": [
+      "Explosion"
+    ]
+  }
+]
