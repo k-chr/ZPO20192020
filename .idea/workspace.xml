@@ -7,15 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d2ab7c8-0cc9-49c1-b6d7-cfbc3f72c262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad1/ClientApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad1/ClientCyclist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad1/CommunicationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad1/Credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad1/MessageToSend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad1/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad1/ServerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirdPartyPackages/jna-5.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirdPartyPackages/jna-platform-5.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad2/ScalaWarmup.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad3/Parentheses.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZPO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ZPO.iml" afterDir="false" />
     </list>
@@ -24,6 +19,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -52,6 +50,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1TEjb3Dfef7H6MqCGRvJ6sgvVRt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -59,6 +60,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
@@ -70,7 +72,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1532091" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -214,12 +216,12 @@
     </configuration>
     <list>
       <item itemvalue="Application.PointExtension" />
+      <item itemvalue="Application.ClientApp1" />
+      <item itemvalue="Application.ClientApp2" />
       <item itemvalue="Application.FactorialExtensions" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.ServerApp" />
       <item itemvalue="Application.ClientApp" />
-      <item itemvalue="Application.ClientApp1" />
-      <item itemvalue="Application.ClientApp2" />
       <item itemvalue="JUnit.CustomMergeUtilitiesTest" />
     </list>
     <recent_temporary>
@@ -231,6 +233,9 @@
         <item itemvalue="Application.FactorialExtensions" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="outputLimit" value="100" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -257,7 +262,8 @@
       <workItem from="1575584529674" duration="65378000" />
       <workItem from="1576058003563" duration="6512000" />
       <workItem from="1576574933853" duration="1004000" />
-      <workItem from="1576775113131" duration="125019000" />
+      <workItem from="1576775113131" duration="125663000" />
+      <workItem from="1578068084194" duration="3264000" />
     </task>
     <servers />
   </component>
@@ -269,7 +275,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
