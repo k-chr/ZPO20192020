@@ -7,8 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d2ab7c8-0cc9-49c1-b6d7-cfbc3f72c262" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad4/Passwd.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad4/Test.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad3/Parentheses.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad3/Parentheses.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZPO/Kamil215691/ZPO/LAB11/Zad1/Server$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ZPO/Kamil215691/ZPO/LAB11/Zad1/Server$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad2/ScalaWarmup.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad2/ScalaWarmup.sc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +44,7 @@
         <option value="AnnotationType" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Package Object" />
       </list>
     </option>
   </component>
@@ -68,7 +73,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1532091" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Scala Compiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -106,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClientApp">
+  <component name="RunManager" selected="Application.Passwd (1)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kamil215691.ZPO.LAB10.Zad3.App" />
       <module name="ZPO" />
@@ -162,15 +167,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialExtensions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kamil215691.ZPO.LAB10.Zad2.FactorialExtensions" />
+    <configuration name="Passwd (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Kamil215691.ZPO.LAB11.Zad4.Passwd" />
       <module name="ZPO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kamil215691.ZPO.LAB10.Zad2.*" />
+          <option name="PATTERN" value="Kamil215691.ZPO.LAB11.Zad4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Passwd" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Passwd" />
+      <module name="ZPO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -195,38 +207,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomMergeUtilitiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ZPO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kamil215691.ZPO.LAB6.Zad2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Kamil215691.ZPO.LAB6.Zad2" />
-      <option name="MAIN_CLASS_NAME" value="Kamil215691.ZPO.LAB6.Zad2.CustomMergeUtilitiesTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.PointExtension" />
       <item itemvalue="Application.ClientApp1" />
       <item itemvalue="Application.ClientApp2" />
-      <item itemvalue="Application.FactorialExtensions" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.ServerApp" />
       <item itemvalue="Application.ClientApp" />
-      <item itemvalue="JUnit.CustomMergeUtilitiesTest" />
+      <item itemvalue="Application.Passwd" />
+      <item itemvalue="Application.Passwd (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Passwd (1)" />
+        <item itemvalue="Application.Passwd" />
         <item itemvalue="Application.ClientApp" />
         <item itemvalue="Application.ServerApp" />
         <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.CustomMergeUtilitiesTest" />
-        <item itemvalue="Application.FactorialExtensions" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +256,8 @@
       <workItem from="1576058003563" duration="6512000" />
       <workItem from="1576574933853" duration="1004000" />
       <workItem from="1576775113131" duration="125663000" />
-      <workItem from="1578068084194" duration="5833000" />
+      <workItem from="1578068084194" duration="7667000" />
+      <workItem from="1578145909709" duration="5714000" />
     </task>
     <servers />
   </component>
@@ -278,6 +276,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WorksheetDefaultProjectSettings">
+    <option name="compilerProfileName" value="Default" />
+    <option name="moduleName" value="ZPO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -497,6 +499,31 @@
           <line>15</line>
           <properties field="states" class="Kamil215691.ZPO.LAB11.Zad1.Server" />
           <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad4/Passwd.scala</url>
+          <line>12</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad4/Passwd.scala</url>
+          <line>15</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad4/Passwd.scala</url>
+          <line>6</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad4/Passwd.scala</url>
+          <line>3</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad4/Passwd.scala</url>
+          <line>9</line>
+          <option name="timeStamp" value="89" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
