@@ -7,12 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d2ab7c8-0cc9-49c1-b6d7-cfbc3f72c262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad2/ScalaWarmup.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad3/Parentheses.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZPO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ZPO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad3/Parentheses.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad3/Parentheses.sc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +259,7 @@
       <workItem from="1576058003563" duration="6512000" />
       <workItem from="1576574933853" duration="1004000" />
       <workItem from="1576775113131" duration="125663000" />
-      <workItem from="1578068084194" duration="3264000" />
+      <workItem from="1578068084194" duration="5833000" />
     </task>
     <servers />
   </component>
