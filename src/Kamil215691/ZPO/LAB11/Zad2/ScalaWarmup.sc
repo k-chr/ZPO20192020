@@ -5,6 +5,7 @@ var str = "-3 + 4 - 1 + 1 + 2 - 5 + 6"
 var sum : Int = 0
 var op: String = ""
 var splitted = str.split(" ")
+
 var opFun = (operand: Int ) => {
   op match {
     case "-" => sum - operand
@@ -20,4 +21,5 @@ for (str1 <- splitted){
     case _ => throw new RuntimeException("Cannot parse provided values!")
   }
 }
+
 Console.println(s"Expression: $str = $sum")

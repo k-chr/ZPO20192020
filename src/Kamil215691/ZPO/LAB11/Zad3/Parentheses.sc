@@ -8,6 +8,7 @@ def checkBalancedParens(exp: String): Boolean= {
   }
   rV == 0
 }
+
 assert(!checkBalancedParens("))(("))
 assert(checkBalancedParens("(()(ab)c)"))
 assert(!checkBalancedParens("((()())"))
