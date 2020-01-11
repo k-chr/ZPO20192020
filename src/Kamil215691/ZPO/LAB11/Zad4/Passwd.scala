@@ -1,9 +1,10 @@
 package Kamil215691.ZPO.LAB11.Zad4
 
 object Passwd {
-  private def preValidatePasswd(min: Int)( max: Int)( passwd: String) :Boolean = {
-      min <= passwd.length && max >= passwd.length && hasAtLeastTwoNumbers(passwd) && hasCapitalLetter(passwd) && hasSmallLetter(passwd) && hasSpecialCharacter(passwd)
-  }
+
+  private def maxLength(max: Int) = (str: String) => max >= str.length
+
+  private def minLength(min: Int) = (str: String) => min <= str.length
 
   private def hasSmallLetter(passwd: String): Boolean = {
       passwd.filter(ch => ch >= 'a' && ch <= 'z').length > 0
@@ -21,9 +22,9 @@ object Passwd {
     passwd.filter(ch => ch.isDigit).length > 1
   }
 
-  private val helper1 = preValidatePasswd(8)(32)_
+  private val helper1 =(passwd :String, list: List[String=>Boolean]) => list.forall(l => l(passwd))
 
-  def validate(passwd: String):Boolean= helper1(passwd)
+  def validate(passwd: String):Boolean = helper1(passwd, List(hasSmallLetter, hasCapitalLetter, hasSpecialCharacter, hasAtLeastTwoNumbers, maxLength(32), minLength(8)))
 
   def main(args: Array[String] ) = {
     assert(!validate("1234567890"))
