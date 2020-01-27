@@ -7,10 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d2ab7c8-0cc9-49c1-b6d7-cfbc3f72c262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB12/Zad1/CommandLineActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB12/Zad1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB12/Zad1/ModelConnector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/eclipselink.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB12/Zad2/Family.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB12/Zad2/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB12/Zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB12/Zad2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdPartyPackages/eclipselink.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZPO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ZPO.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ZPO/Kamil215691/ZPO/Kolokwium/Maze$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ZPO/Kamil215691/ZPO/Kolokwium/Maze$1.class" afterDir="false" />
@@ -21,6 +26,7 @@
       <change beforePath="$PROJECT_DIR$/out/production/ZPO/Kamil215691/ZPO/LAB11/Zad3/Parentheses.sc" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ZPO/Kamil215691/ZPO/LAB11/Zad3/Parentheses.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ZPO/Kamil215691/ZPO/LAB11/Zad4/Passwd$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ZPO/Kamil215691/ZPO/LAB11/Zad4/Passwd$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ZPO/Kamil215691/ZPO/LAB11/Zad4/Passwd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ZPO/Kamil215691/ZPO/LAB11/Zad4/Passwd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZPO/META-INF/ZPO.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Kamil215691/ZPO/Kolokwium/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/Kolokwium/Maze.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad2/ScalaWarmup.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kamil215691/ZPO/LAB11/Zad2/ScalaWarmup.sc" afterDir="false" />
     </list>
@@ -79,9 +85,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last.edited.regexp" value="56569887766554433" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ThirdPartyPackages/mysql-connector-java-5.1.48-bin.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.18.jar!/" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.1532091" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -92,22 +98,22 @@
       <recent name="Kamil215691.ZPO.LAB6.Zad3" />
       <recent name="Kamil215691.ZPO.LAB6.Zad2" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Kamil215691.ZPO.LAB5.Zad1" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\ZPO20192020" />
-      <recent name="D:\Projects\ZPO20192020\src\ThirdPartyPackages" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\ZPO20192020\src" />
       <recent name="D:\Projects\ZPO20192020\src\ThirdPartyPackages" />
       <recent name="D:\Projects\ZPO20192020" />
       <recent name="D:\Projects\ZPO20192020\src\Kamil215691\ZPO\LAB10\Zad2" />
       <recent name="D:\Projects\ZPO20192020\src\Kamil215691\ZPO\LAB10\Zad1" />
-      <recent name="D:\Projects\ZPO20192020\src\Kamil215691\ZPO" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\ZPO20192020\src\ThirdPartyPackages" />
+      <recent name="D:\Projects\ZPO20192020" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Kamil215691.ZPO.LAB5.Zad1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -122,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="ClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kamil215691.ZPO.LAB11.Zad1.ClientApp" />
       <module name="ZPO" />
@@ -158,6 +164,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Kamil215691.ZPO.LAB11.Zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kamil215691.ZPO.LAB12.Zad2.Main" />
+      <module name="ZPO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kamil215691.ZPO.LAB12.Zad2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,36 +224,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kamil215691.ZPO.LAB11.Zad1.ServerApp" />
-      <module name="ZPO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kamil215691.ZPO.LAB11.Zad1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.PointExtension" />
       <item itemvalue="Application.ClientApp1" />
       <item itemvalue="Application.ClientApp2" />
-      <item itemvalue="Application.ServerApp" />
       <item itemvalue="Application.ClientApp" />
       <item itemvalue="Application.Passwd" />
       <item itemvalue="Application.Passwd (1)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Passwd (1)" />
         <item itemvalue="Application.Passwd" />
         <item itemvalue="Application.ClientApp" />
-        <item itemvalue="Application.ServerApp" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +277,7 @@
       <workItem from="1578145909709" duration="5714000" />
       <workItem from="1578154049362" duration="10025000" />
       <workItem from="1579166739093" duration="5615000" />
-      <workItem from="1579967313055" duration="13531000" />
+      <workItem from="1579967313055" duration="41368000" />
     </task>
     <servers />
   </component>

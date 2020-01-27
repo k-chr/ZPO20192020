@@ -78,10 +78,6 @@ public class Maze {
                 return true;
             }
             if (true) {
-//                goThroughThisFatalMaze(startX, startY + 1);
-//                goThroughThisFatalMaze(startX, startY - 1);
-//                goThroughThisFatalMaze(startX - 1, startY);
-//                goThroughThisFatalMaze(startX + 1, startY);
                 if ((reader.isStart((startX) * tileWidth, (startY - 1) * tileHeight) || reader.isEmpty(startX * tileWidth, (startY - 1) * tileHeight) || reader.isStop(startX * tileWidth, (startY - 1) * tileHeight)) && Mat[startY - 1][startX] == where.DEFAULT) {
                     Mat[startY][startX] = where.UP;
                     if (goThroughThisFatalMaze(startX, startY - 1)) {
