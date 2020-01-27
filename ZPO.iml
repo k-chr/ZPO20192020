@@ -112,5 +112,14 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="scala-sdk-2.13.1" level="application" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/ThirdPartyPackages/mysql-connector-java-5.1.48-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
